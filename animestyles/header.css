@@ -112,6 +112,7 @@
 .channel-button{
     width:30px;
     cursor: pointer;
+    border-radius:15px;
 }
 .upload-button,.apps-button,.notification-bell,.channel-button{
     position:relative;
